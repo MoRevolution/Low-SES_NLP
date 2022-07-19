@@ -7,7 +7,7 @@ dataFolder = "C:\\Users\\IJ\\Desktop\\research2\\data"
 triplesFolder = "C:\\Users\\IJ\\Desktop\\research2\\triples"
 
 #script to get the triples from each file and storing them in new files
-properties = properties = {'openie.affinity_probability_cap': 2 / 3,}
+properties = {'openie.affinity_probability_cap': 2 / 3,}
 with StanfordOpenIE(properties=properties) as client:
     for file in os.listdir(dataFolder):
         with open(os.path.join(dataFolder, file),'r',encoding="utf-8",errors='ignore') as f:
