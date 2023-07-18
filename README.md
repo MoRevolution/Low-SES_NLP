@@ -1,3 +1,5 @@
+### This repository is deprecated deprecated, check our organization page for updated work: [LINK](https://github.com/NLP-in-the-Social-Sciences)
+
 This repo contains the code and data for [the paper](https://aclanthology.org/2022.nlp4pi-1.6) at the findings of ACL 2022: 
 
 **Impacts of Low Socio-economic Status on Educational Outcomes: A Narrative Based Analysis**[[Paper link]](https://aclanthology.org/2022.nlp4pi-1.6)
